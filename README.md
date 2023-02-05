@@ -13,6 +13,6 @@
 
 ## Project Timeline (to be updated)
 
-## [감자탈출넘버원 프로젝트 레포(종합)](https://github.com/leeyoungdong/Book_project)
+### [감자탈출넘버원 프로젝트 레포(종합)](https://github.com/leeyoungdong/Book_project)
 - DE 기술 스택, 데이터 파이프라인
 - 원본 데이터 출처, 팀원별 개선점 및 프로젝트 회고 등
